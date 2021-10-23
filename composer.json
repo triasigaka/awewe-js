@@ -1,0 +1,26 @@
+{
+    "name": "triasigaka/awewe-js",
+    "description": "Awewe JS",
+    "keywords": ["model", "awewe", "js"],
+    "homepage": "https://github.com/triasigaka",
+    "type": "helper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tria Sigaka",
+            "email": "triasigaka@gmail.com"
+        }
+    ],
+	"repositories":[
+		{
+			"type": "git",
+			"url": "https://github.com/triasigaka/awewe-js"
+		}
+	],
+    "autoload": {
+        "psr-4": {
+            "triasigaka\\": ""
+        }
+    },
+	"minimum-stability": "dev"
+}
